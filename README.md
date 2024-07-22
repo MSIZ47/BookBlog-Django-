@@ -1,15 +1,13 @@
 ## **Book Blog Website**
 
-My first django project is a **book blog website** project that i did in Codingyar.com django course section2.a more advanced type of blog website with django.
+this django project is a **book blog website** project that i did in Codingyar.com django course section 2.a more advanced type of blog website with django.
 
 ## **Introduction**
-
-in this website anyone who sign up can post books with its details and image, can modify and delete it and anyone can place comments for them.its a blog project for books.this project has authentication and pagination.i used **Crispy Forms** for 
-displaying my forms. i handled the views with different appraoch and handled permissions for editing and deleting of the book so only the user who placed the post of the book can edit or delete it
+in this website anyone who sign up can post books with its details and image, can modify and delete it and anyone can place comments for them.its a blog project for books.
 
 ##  **Description**
 this project has authentication and pagination.i used **Crispy Forms** for 
-displaying my forms.i used templatetags in my templates.one of them is custom. i handled the views with different appraoch and handled permissions for editing and deleting of the book so only the user who placed the post of the book can edit or delete it.
+displaying my forms.i used **templatetags** in my templates.one of them is custom.I handled the views with different appraoch and handled permissions for editing and deleting of the book so only the user who placed the post of the book can edit or delete it.
 
 
 ## **Installation**
@@ -30,7 +28,7 @@ follow these steps:
 1. Open the project in your favorite code editor.
 2. Modify the source code to fit your needs.
 3. start the project: **python manage.py runserver**
-4. create some dummy book post after registration(so that you can visualize the use of the project.
+4. create some dummy book post after registration(so that you can visualize the use of the project).
 5. Use the project as desired.
 
 
